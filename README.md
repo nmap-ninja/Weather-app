@@ -1,4 +1,17 @@
 <h1>Weather-app</h1>
+<p>A simple and user-friendly Weather Application that provides real-time weather information for any city. This app helps users check current weather conditions like temperature, humidity, wind speed, and weather description in an easy-to-read format.</p>
 
-<p>I build a Weather app using <strong>HTML</strong>, <strong>CSS</strong>, <strong>Javascript</strong></p>
-<p>I also using API in this project</p>
+<h1>🚀 Features</h1>
+
+<ul>
+<li>🌍 Search weather by city name</li>
+
+<li>🌡️ Displays current temperature</li>
+
+<li>💧 Shows humidity and wind speed</li>
+
+<li>☁️ Weather condition (clear, cloudy, rainy, etc.)</li>
+
+<li>🔄 Real-time weather data</li>
+
+</ul>
